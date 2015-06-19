@@ -8,4 +8,6 @@
 本書是『物聯網系列』的第二本書，主要是以『Arduino Yun』為主軸，進行物聯網的產品設計，主要是讓讀者可以熟悉這塊物超所值的Arduino開發板，可以了解其太網路模組。Arduino開發板最強大的不只是它的簡單易學的開發工具，最強大的是它豐富的周邊模組與簡單易學的模組函式庫，幾乎Maker想到的東西，都有廠商或Maker開發它的周邊模組，透過這些周邊模組，Maker可以輕易的將想要完成的東西用堆積木的方式快速建立，而且最強大的是這些周邊模組都有對應的函式庫，讓Maker不需要具有深厚的電子、電機與電路能力，就可以輕易駕御這些模組。
 
 
+
+
 Arduino Yun物聯網系統開發(入門篇)(Using Arduino Yun to Implemention the application for Interner of Things (Introduction &amp; Practices) )
